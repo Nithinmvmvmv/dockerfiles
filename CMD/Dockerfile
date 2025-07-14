@@ -1,2 +1,2 @@
 FROM run:v1
-cmd ["nginx","-g","demon off;"]
+CMD ["nginx","-g","demon off;"]
